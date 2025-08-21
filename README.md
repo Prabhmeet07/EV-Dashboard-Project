@@ -21,4 +21,17 @@ Power BI file (EV_Insights_Dashboard.pbix)
 Data (electric_vehicles_dataset.csv)
 Review1.pdf
 
+#How to Run the Project
+
+1) Download files:
+    EV_Insights_Dashboard.pbix
+    data/electric_vehicles_dataset.csv
+
+2) Open Power BI Desktop → Load .pbix file.
+
+3) Explore the dashboard:
+    Use slicers (Year, Manufacturer, Region)
+    view KPIs (Revenue, Safety Rating, Running Cost)
+    Interact with charts (Bar, Line, Pie, Map).
+
 👤 Prabhmeet Singh
