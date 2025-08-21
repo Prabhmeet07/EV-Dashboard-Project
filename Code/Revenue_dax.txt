@@ -1,0 +1,5 @@
+Revenue =
+SUMX(
+    'electric_vehicles_dataset',
+    'electric_vehicles_dataset'[Units sold (2024)] *
+    'electric_vehicles_dataset'[Price (USD)]

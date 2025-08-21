@@ -1,0 +1,6 @@
+Cost per KM =
+DIVIDE(
+    'electric_vehicles_dataset'[Price (USD)],
+    'electric_vehicles_dataset'[Range (km)],
+    BLANK()
+)

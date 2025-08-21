@@ -1,0 +1,2 @@
+Safety Rating =
+AVERAGE('electric_vehicles_dataset'[Safety_Rating])

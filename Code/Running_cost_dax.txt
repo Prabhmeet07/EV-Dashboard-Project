@@ -1,0 +1,9 @@
+Running Cost per KM =
+AVERAGEX(
+    'electric_vehicles_dataset',
+    DIVIDE(
+        ('electric_vehicles_dataset'[Battery Capacity(KWH)] * 0.12),
+        'electric_vehicles_dataset'[Range (km)],
+        BLANK()
+    )
+)
