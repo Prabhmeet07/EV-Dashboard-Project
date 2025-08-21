@@ -19,6 +19,6 @@ Interactive Dashboards → Compare EVs by price, range
 
 Power BI file (EV_Insights_Dashboard.pbix)
 Data (electric_vehicles_dataset.csv)
-Presentation (Review1.pdf)
+Review1.pdf
 
 👤 Prabhmeet Singh
